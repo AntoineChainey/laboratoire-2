@@ -1,0 +1,5 @@
+"" est ce que c'est finis""
+"" si oui, finir programme.""
+"" si non, est ce que la température est inférieur a 20 degré""
+"" si oui, allumer le chauffage et recommencer.""
+""si non recommencer.""
